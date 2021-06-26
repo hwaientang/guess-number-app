@@ -20,5 +20,5 @@ transition: all 0.3s ease;
 
 button:hover{
 background:orange;
-
+text-align: left;
 }
